@@ -25,7 +25,7 @@ The NKU.sty file is quite ready - made. I only made simple modifications to the 
 
 It seems that there are some functions I haven't implemented yet (like highlighted blocks in the main text and highlighted text segments). However, many functions in Beamer are similar to those in LaTeX. If you're familiar with LaTeX syntax, you should be able to handle Beamer with ease. I'll continue to add more features later.
 
-I hope that those who come across this will give me a little star! 🌟⭐ I'd be extremely grateful if one day my template could be used in the defense presentations of CCF A - class papers! (Translate by Doubao AI)
+I hope that those who come across this will give me a little star! 🌟⭐ I'd be extremely grateful if one day my template could be used in the defense presentations of CCF A - class papers! (Translated by Doubao AI)
 
 ---
 
