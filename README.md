@@ -13,7 +13,23 @@
 
 希望有缘人给我点一个小小的star~🌟⭐哪天我的模板能出现在CCF A类文的答辩现场，我将不胜感激！
 
-引用/参考内容如下：
+***
+
+The idea originally came from the probability theory courseware of a teacher in the School of Statistics and Data Science, presented in a way different from PowerPoint, which really piqued my curiosity.
+
+After you get proficient in using this template, you'll discover many amazing features. (Many researchers and teachers are using this approach for their creations.)
+
+Here is the NKU Beamer template I compiled by integrating the features of some other templates. It covers most commonly - used types (such as formulas, three - line tables, and simple step - by - step animations). Meanwhile, I'll list the references below. The content in these references is more comprehensive than what's in my template (for example, graphic creation). When using this template, you just need to replace the existing content.
+
+The NKU.sty file is quite ready - made. I only made simple modifications to the color scheme and basic styles. In short, it's not very difficult.
+
+It seems that there are some functions I haven't implemented yet (like highlighted blocks in the main text and highlighted text segments). However, many functions in Beamer are similar to those in LaTeX. If you're familiar with LaTeX syntax, you should be able to handle Beamer with ease. I'll continue to add more features later.
+
+I hope that those who come across this will give me a little star! 🌟⭐ I'd be extremely grateful if one day my template could be used in the defense presentations of CCF A - class papers! (Translate by Doubao AI)
+
+---
+
+References are as follows:
 
 ```tex
 @inproceedings{THU,
