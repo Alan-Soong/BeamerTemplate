@@ -12,3 +12,29 @@
 我好像有些功能没有实现（正文的高亮块和高亮部分文字），不过很多功能其实和LaTeX类似，熟练LaTeX语法应该可以玩转Beamer，后面我也会继续添加的。
 
 希望有缘人给我点一个小小的star~🌟⭐哪天我的模板能出现在CCF A类文的答辩现场，我将不胜感激！
+
+引用/参考内容如下：
+
+```tex
+@inproceedings{THU,
+  author    = {unknown},
+  title     = {THU Beamer Theme},
+  year      = {2015},
+  url       = {http://far.tooold.cn/post/latex/beamertsinghua},
+}
+
+@inproceedings{NKU,
+  author    = {Hanyu Zheng},
+  title     = {NKU presentation Beamer},
+  year      = {2021},
+  url       = {https://www.overleaf.com/latex/templates/nku-presentation-beamer/gctydndnvstd},
+}
+
+@inproceedings{WHU,
+  author    = {yxy2000},
+  title     = {WHU Beamer Theme Advanced},
+  year      = {2021},
+  url       = {https://www.overleaf.com/latex/templates/whu-beamer-theme-advanced/nnjvrndphpqy},
+}
+```
+
